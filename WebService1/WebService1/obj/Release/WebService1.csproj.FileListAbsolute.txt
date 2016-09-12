@@ -1,0 +1,6 @@
+E:\C#\WebService1\WebService1\bin\WebService1.dll.config
+E:\C#\WebService1\WebService1\bin\WebService1.dll
+E:\C#\WebService1\WebService1\bin\WebService1.pdb
+E:\C#\WebService1\WebService1\obj\Release\WebService1.dll
+E:\C#\WebService1\WebService1\obj\Release\WebService1.pdb
+E:\C#\WebService1\WebService1\obj\Release\WebService1.csprojResolveAssemblyReference.cache
